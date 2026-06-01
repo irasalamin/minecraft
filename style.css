@@ -1,0 +1,66 @@
+body{
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  margin: 0;
+  font-size: 20px;
+  background-image: url(https://img.wallscloud.net/uploads/thumb/3781323454/Minecraft_2-440x275-MM-80.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+.card{ 
+    background-color: #51554E;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;}
+    .cards{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    
+    .card:hover{
+        box-shadow: 2px 5px 5px;
+    }
+    
+    section{
+        margin: 30px;
+    }
+    
+     .abc {
+            margin: 30px;
+            padding: 10px;
+            background-color: #2AB500;
+        }
+    
+    h1,h2{
+        text-align: center;
+        
+    }
+    a{ 
+        text-decoration: none;
+        color: black;
+        
+    }
+    nav a{
+        border: 3px solid ;
+        padding: 10px;
+        border-radius: 10px;
+        color: white;
+    }
+    
+    nav a:hover{
+        font-size: 25px;
+    }
+    
+    header{
+         background-image: url(https://lookw.net/21/2182/thumbs/1639255926-1002-www.lookw.net.jpg);
+         height: 250px;
+    }
